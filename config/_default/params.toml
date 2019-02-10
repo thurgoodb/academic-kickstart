@@ -50,14 +50,12 @@ time_format = "3:04 PM"
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "test@example.org"
-phone = "888 888 88 88"
-address = "Building 1 Room 1, Stanford University, California, 90210, USA"
+email = "brandon.thurgood@outlook.com"
+phone = ""
+address = ""
 
 # Office hours: use `<br>` to insert a line break, or set to "" to remove office hours
-office_hours = """Monday 10:00 to 13:00<br>
-                  Wednesday 09:00 to 10:00<br>
-                  Otherwise email to book an appointment"""
+office_hours = ""
 
 # Enter an optional link for booking appointments (e.g. calendly.com).
 appointment_url = ""
@@ -108,7 +106,7 @@ plugins_js  = []
 ############################
 
 # Get user avatars from Gravatar.com? (true/false)
-gravatar = false
+gravatar = true
 
 # Align the main menu to the right of the page? (true/false)
 menu_align_right = false

@@ -70,7 +70,7 @@ interests = [
   
  [[social]]
   icon = "linkedin"
-  icon_pack = "fa"
+  icon_pack = "fab"
   link = "https://www.linkedin.com/in/brandon-thurgood-2287251a/"
 
 # Link to a PDF of your resume/CV from the About widget.

@@ -21,25 +21,27 @@ email = "brandon.thurgood@outlook.com"
 # List (academic) interests or hobbies
 interests = [
   "Cloud Native",
+  "DevOps",
   "Kubernetes",
-  "VMware"
+  "VMware",
+  
 ]
 
 # List qualifications (such as academic degrees)
 [[education.courses]]
-  course = ""
-  institution = ""
-  year = ""
+  course = "VMware Certified Professional / VCP 4,5,6 & 6.5"
+  institution = "VMware"
+  year = "2012 - Current"
 
 [[education.courses]]
-  course = ""
-  institution = ""
-  year = ""
+  course = "Cisco Certified Networking Professional / CCNP"
+  institution = "Cisco"
+  year = "2017 - Current"
 
 [[education.courses]]
-  course = ""
-  institution = ""
-  year = ""
+  course = "Microsoft Certified: MCITP-EA & SA, MCSE, MCSA"
+  institution = "Microsoft"
+  year = "1999 - Current"
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons

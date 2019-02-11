@@ -58,10 +58,10 @@ interests = [
   icon_pack = "fab"
   link = "https://twitter.com/BrandonsDefiant/"
 
-[[social]]
-  icon = "google-scholar"
-  icon_pack = "ai"
-  link = ""
+#[[social]]
+#  icon = "google-scholar"
+#  icon_pack = "ai"
+#  link = ""
 
 [[social]]
   icon = "github"

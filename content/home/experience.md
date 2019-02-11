@@ -57,6 +57,7 @@ date_format = "January 2006"
   date_start = "2010-11-01"
   date_end = "2013-02-28"
   description = """Datacentre Infrastructure Management."""
+  """
   
 [[experience]]
   title = "Technology Consultant L3"

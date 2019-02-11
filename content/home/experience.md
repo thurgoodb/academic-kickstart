@@ -24,7 +24,7 @@ date_format = "January 2006"
   company_url = "www.gm.com"
   location = "Ireland"
   date_start = "2018-10-01"
-  date_end = ""
+  date_end = "Current"
   description = ""Manage a team who architect PaaS, IaaS & MaaS solutions."
   Responsibilities include:
   

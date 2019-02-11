@@ -75,4 +75,4 @@ interests = [
 
 +++
 
-I'm an IT Manager, inspirational leader who is interested in all things Cloud, DevOps, Infrastructure and all things IT.
+I'm an IT Manager and inspirational leader who is interested in Cloud, DevOps, Infrastructure and all things IT.

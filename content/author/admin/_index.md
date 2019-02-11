@@ -29,19 +29,19 @@ interests = [
 
 # List qualifications (such as academic degrees)
 [[education.courses]]
-  course = "VMware Certified Professional / VCP 4,5,6 & 6.5"
+  course = "VMware Certified Professional (VCP) 4,5,6 & 6.5"
   institution = "VMware"
-  year = "2012 - Current"
+  year = ""
 
 [[education.courses]]
-  course = "Cisco Certified Networking Professional / CCNP"
+  course = "Cisco Certified Networking Professional (CCNP)"
   institution = "Cisco"
-  year = "2017 - Current"
+  year = ""
 
 [[education.courses]]
   course = "Microsoft Certified: MCITP-EA & SA, MCSE, MCSA"
   institution = "Microsoft"
-  year = "1999 - Current"
+  year = ""
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons

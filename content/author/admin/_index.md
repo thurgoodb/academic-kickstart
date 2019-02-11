@@ -13,7 +13,7 @@ role = "Cloud DevOps Manager"
 organizations = [ { name = "General Motors", url = "" } ]
 
 # Short bio (displayed in user profile at end of posts)
-bio = "I'm an IT Manager interestid in all things Cloud, DevOps and Infrastructure."
+bio = "I'm an IT Manager, inspirational leader who is interested in all things Cloud, DevOps, Infrastructure and all things IT."
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email = "brandon.thurgood@outlook.com"
@@ -75,6 +75,4 @@ interests = [
 
 +++
 
-#Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, #mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of #self-organizing robots, and mobile sensor networks.
-
-#Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget #egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+I'm an IT Manager, inspirational leader who is interested in all things Cloud, DevOps, Infrastructure and all things IT.

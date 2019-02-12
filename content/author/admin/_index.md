@@ -24,6 +24,7 @@ interests = [
   "DevOps",
   "Kubernetes",
   "VMware",
+  "Networking",
   
 ]
 

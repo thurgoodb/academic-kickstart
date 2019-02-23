@@ -33,7 +33,12 @@ interests = [
 
 # List qualifications (such as academic degrees)
 [[education.courses]]
-  course = "VMware Certified Professional (VCP)      4,5,6 & 6.5"
+  course = "Master of Science in Computing in Private Cloud Technologies"
+  institution = "Letterkenny Institute of Technology"
+  year = "2019"
+  
+[[education.courses]]
+  course = "VMware Certified Professional (VCP) 4,5,6 & 6.5"
   institution = "VMware"
   year = ""
 

@@ -33,7 +33,7 @@ interests = [
 
 # List qualifications (such as academic degrees)
 [[education.courses]]
-  course = "Master of Science in Computing in Private Cloud Technologies"
+  course = "Master of Science in Computing - Private Cloud Technologies"
   institution = "Letterkenny Institute of Technology"
   year = "2019"
   
@@ -91,4 +91,4 @@ interests = [
 
 +++
 
-I'm an IT Manager and inspirational leader who is interested in Cloud, DevOps, Infrastructure and all things IT.
+An IT pro, manager and leader focusing on Cloud, DevOps, IaaS, PaaS, CaaS, and all things IT.

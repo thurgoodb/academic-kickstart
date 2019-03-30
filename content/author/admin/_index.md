@@ -13,7 +13,7 @@ role = "Cloud DevOps Manager"
 organizations = [ { name = "General Motors", url = "" } ]
 
 # Short bio (displayed in user profile at end of posts)
-bio = "An IT pro, manager and leader focusing on Cloud, DevOps, SRE, IaaS, PaaS, CaaS, and all things IT."
+bio = "An IT pro, manager and leader focusing on Cloud, DevOps, SRE, IaaS, PaaS, CaaS, and all things IT. I enjoy spending time with my family, reading and researching technologies and methodologies."
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email = "brandon.thurgood@outlook.com"
@@ -93,3 +93,4 @@ interests = [
 +++
 
 An IT pro, manager and leader focusing on Cloud, DevOps, SRE, IaaS, PaaS, CaaS, and all things IT.
+I enjoy spending time with my family, reading and researching technologies and methodologies.

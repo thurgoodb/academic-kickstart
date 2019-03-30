@@ -13,7 +13,7 @@ role = "Cloud DevOps Manager"
 organizations = [ { name = "General Motors", url = "" } ]
 
 # Short bio (displayed in user profile at end of posts)
-bio = "An IT pro, manager and leader focusing on Cloud, DevOps, IaaS, PaaS, CaaS, and all things IT."
+bio = "An IT pro, manager and leader focusing on Cloud, DevOps, SRE, IaaS, PaaS, CaaS, and all things IT."
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email = "brandon.thurgood@outlook.com"
@@ -22,6 +22,7 @@ email = "brandon.thurgood@outlook.com"
 interests = [
   "Cloud Native",
   "DevOps",
+  "SRE",
   "Kubernetes",
   "VMware",
   "Networking",
@@ -38,12 +39,12 @@ interests = [
   year = "2019"
   
 [[education.courses]]
-  course = "VMware Certified Professional (VCP) 4,5,6 & 6.5"
+  course = "VMware Certified Professional - Data Center Virtualization (VCP-DCV) 4,5,6 & 6.5"
   institution = "VMware"
   year = ""
 
 [[education.courses]]
-  course = "Cisco Certified Networking Professional (CCNP)"
+  course = "Cisco Certified Networking Professional - Routing and Switching (CCNP R&S)"
   institution = "Cisco"
   year = ""
 
@@ -91,4 +92,4 @@ interests = [
 
 +++
 
-An IT pro, manager and leader focusing on Cloud, DevOps, IaaS, PaaS, CaaS, and all things IT.
+An IT pro, manager and leader focusing on Cloud, DevOps, SRE, IaaS, PaaS, CaaS, and all things IT.

@@ -36,7 +36,7 @@ interests = [
 [[education.courses]]
   course = "Master of Science in Computing - Private Cloud Technologies"
   institution = "Letterkenny Institute of Technology"
-  year = "2019"
+  year = ""
   
 [[education.courses]]
   course = "VMware Certified Professional - Data Center Virtualization (VCP-DCV) 4,5,6 & 6.5"

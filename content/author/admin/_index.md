@@ -34,9 +34,9 @@ interests = [
 
 # List qualifications (such as academic degrees)
 [[education.courses]]
-  course = "Master of Science in Computing - Private Cloud Technologies"
+  course = "Master of Science in Cloud Technologies"
   institution = "Letterkenny Institute of Technology"
-  year = ""
+  year = "2019"
   
 [[education.courses]]
   course = "VMware Certified Professional - Data Center Virtualization (VCP-DCV) 4,5,6 & 6.5"

@@ -32,7 +32,7 @@ date_format = "Jan 2006"
   organization = "Cisco"
   certificate_url = "https://brandonthurgood.io/ccnp.pdf"
   date_start = "2017-03-24"
-  date_end = "2020-03-24"
+  date_end = ""
   description = "Cisco Certified Network Professional (CCNP) Routing and Switching certification validates the ability to plan, implement, verify and troubleshoot local and wide-area enterprise networks and work collaboratively with specialists on advanced security, voice, wireless and video solutions."
 
 [[item]]

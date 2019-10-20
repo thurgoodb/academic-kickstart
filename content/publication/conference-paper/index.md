@@ -1,13 +1,14 @@
 ---
-title: "An example conference paper"
+title: "Cloud Computing With Kubernetes Cluster Elastic Scaling"
 authors:
 - admin
-- Robert Ford
-date: "2013-07-01T00:00:00Z"
-doi: ""
+- Brandon Thurgood
+- Ruth G. Lennon
+date: "2019-07-01T00:00:00Z"
+doi: "10.1145/3341325.3341995"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2019-07-01T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -19,10 +20,10 @@ publication_types: ["1"]
 publication: In *Source Themes Conference*
 publication_short: In *STC*
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Cloud computing and artificial intelligence (AI) technologies are becoming increasingly prevalent in the industry, necessitating the requirement for advanced platforms to support their workloads through parallel and distributed architectures. Kubernetes provides an ideal platform for hosting various workloads, including dynamic workloads based on AI applications that support ubiquitous computing devices leveraging parallel and distributed architectures. The rationale is that Kubernetes can be used to support backend services running on parallel and distributed architectures, hosting ubiquitous cloud computing workloads. These applications support smart homes and concerts, providing an environment that automatically scales based on demand. While Kubernetes does offer support for auto scaling of Pods to support these workloads, automated scaling of the cluster itself is not currently offered. In this paper we introduce a Free and Open Source Software (FOSS) solution for autoscaling Kubernetes (K8s) worker nodes within a cluster to support dynamic workloads. We go on to discuss scalability issues and security concerns both on the platform and within the hosted AI applications.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: In this paper we introduce a Free and Open Source Software (FOSS) solution for autoscaling Kubernetes (K8s) worker nodes within a cluster to support dynamic workloads. We go on to discuss scalability issues and security concerns both on the platform and within the hosted AI applications.
 
 tags:
 - Source Themes
@@ -30,8 +31,8 @@ featured: true
 
 links:
 - name: Custom Link
-  url: http://example.org
-url_pdf: http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf
+  url: https://doi.org/10.1145/3341325.3341995
+url_pdf: https://brandonthurgood.io/icfnds2019.pdf
 url_code: '#'
 url_dataset: '#'
 url_poster: '#'

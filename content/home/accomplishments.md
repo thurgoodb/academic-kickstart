@@ -66,6 +66,14 @@ date_format = "Jan 2006"
   date_start = "2012-02-28"
   date_end = ""
   description = "The VCP 4 certification validates candidate skills to implement, manage, and troubleshoot a vSphere V4 infrastructure, using best practices to provide a powerful, flexible, and secure foundation for business agility that can accelerate the transformation to cloud computing."
+
+[[item]]
+  title = "Microsoft Certified - MCITP-EA & SA, MCSE, MCSA"
+  organization = "Microsoft"
+  certificate_url = "https://brandonthurgood.io/mstranscript.pdf"
+  date_start = "1999-06-07"
+  date_end = "2013-02-07"
+  description = "Extensive list of Microsoft Certifications over a period of 14 years"
   
 #[[item]]
 #  title = "Blockchain Fundamentals"

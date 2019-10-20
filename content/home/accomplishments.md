@@ -28,13 +28,45 @@ date_format = "Jan 2006"
   description = "Abstract:                                                                 Cloud computing and artificial intelligence (AI) technologies are becoming increasingly prevalent in the industry, necessitating the requirement for advanced platforms to support their workloads through parallel and distributed architectures. Kubernetes provides an ideal platform for hosting various workloads, including dynamic workloads based on AI applications that support ubiquitous computing devices leveraging parallel and distributed architectures. The rationale is that Kubernetes can be used to support backend services running on parallel and distributed architectures, hosting ubiquitous cloud computing workloads. These applications support smart homes and concerts, providing an environment that automatically scales based on demand. While Kubernetes does offer support for auto scaling of Pods to support these workloads, automated scaling of the cluster itself is not currently offered. In this paper we introduce a Free and Open Source Software (FOSS) solution for autoscaling Kubernetes (K8s) worker nodes within a cluster to support dynamic workloads. We go on to discuss scalability issues and security concerns both on the platform and within the hosted AI applications."
 
 [[item]]
-  title = "Cisco Certified Network Professional (CCNP) Routing and Switching"
+  title = "Cisco Certified Network Professional (CCNP) R&S"
   organization = "Cisco"
   certificate_url = "https://brandonthurgood.io/ccnp.pdf"
   date_start = "2017-03-24"
   date_end = "2020-03-24"
   description = "Cisco Certified Network Professional (CCNP) Routing and Switching certification validates the ability to plan, implement, verify and troubleshoot local and wide-area enterprise networks and work collaboratively with specialists on advanced security, voice, wireless and video solutions."
 
+[[item]]
+  title = "VMware Certified Professional (VCP-DCV 6.5) - Data Center Virtualization"
+  organization = "VMware"
+  certificate_url = "https://brandonthurgood.io/vcp65.pdf"
+  date_start = "2012-02-28"
+  date_end = ""
+  description = "The VCP-DCV 6.5 certification validates candidate skills to implement, manage, and troubleshoot a vSphere V6.5 infrastructure, using best practices to provide a powerful, flexible, and secure foundation for business agility that can accelerate the transformation to cloud computing."
+  
+[[item]]
+  title = "VMware Certified Professional (VCP-DCV 6) - Data Center Virtualization"
+  organization = "VMware"
+  certificate_url = "https://brandonthurgood.io/vcp6.pdf"
+  date_start = "2012-02-28"
+  date_end = ""
+  description = "The VCP-DCV 6 certification validates candidate skills to implement, manage, and troubleshoot a vSphere V6 infrastructure, using best practices to provide a powerful, flexible, and secure foundation for business agility that can accelerate the transformation to cloud computing."
+
+[[item]]
+  title = "VMware Certified Professional (VCP-DCV 5) - Data Center Virtualization"
+  organization = "VMware"
+  certificate_url = "https://brandonthurgood.io/vcp6.pdf"
+  date_start = "2012-02-28"
+  date_end = ""
+  description = "The VCP-DCV 5 certification validates candidate skills to implement, manage, and troubleshoot a vSphere V5 infrastructure, using best practices to provide a powerful, flexible, and secure foundation for business agility that can accelerate the transformation to cloud computing."
+  
+[[item]]
+  title = "VMware Certified Professional (VCP4)"
+  organization = "VMware"
+  certificate_url = "https://brandonthurgood.io/vcp6.pdf"
+  date_start = "2012-02-28"
+  date_end = ""
+  description = "The VCP 4 certification validates candidate skills to implement, manage, and troubleshoot a vSphere V4 infrastructure, using best practices to provide a powerful, flexible, and secure foundation for business agility that can accelerate the transformation to cloud computing."
+  
 #[[item]]
 #  title = "Blockchain Fundamentals"
 #  organization = "edX"

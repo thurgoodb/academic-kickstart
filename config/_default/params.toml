@@ -128,6 +128,7 @@ sharing = true
   # Date format (refer to https://sourcethemes.com/academic/docs/customization/#date-format )
   #   Examples: "Mon, Jan 2, 2006" or "2006-01-02"
   date_format = "January 2006"
+  profile = false
 
   # Citation style ("apa" or "mla")
   citation_style = "apa"

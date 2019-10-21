@@ -25,8 +25,10 @@ abstract: Cloud computing and artificial intelligence (AI) technologies are beco
 summary: In this paper we introduce a Free and Open Source Software (FOSS) solution for autoscaling Kubernetes (K8s) worker nodes within a cluster to support dynamic workloads. We go on to discuss scalability issues and security concerns both on the platform and within the hosted AI applications.
 
 tags:
+- Source Themes
 featured: true
 profile: false
+share: false
 
 links:
 - name: Custom Link

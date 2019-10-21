@@ -28,6 +28,8 @@ tags:
 - Source Themes
 featured: true
 
+profile: false
+
 links:
 - name: Custom Link
   url: https://doi.org/10.1145/3341325.3341995

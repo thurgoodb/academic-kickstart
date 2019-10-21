@@ -26,7 +26,7 @@ summary: In this paper we introduce a Free and Open Source Software (FOSS) solut
 
 tags:
 - Source Themes
-featured: true
+featured: false
 
 links:
 - name: Custom Link

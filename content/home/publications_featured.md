@@ -9,7 +9,7 @@ title = "Publications"
 subtitle = ""
 
 # Order that this section will appear in.
-weight = 2
+weight = 5
 
 # View.
 #   1 = List

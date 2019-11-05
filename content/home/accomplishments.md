@@ -75,6 +75,14 @@ date_format = "Jan 2006"
   date_end = "2013-02-07"
   description = "Extensive list of Microsoft Certifications over a period of 14 years"
   
+  [[item]]
+  title = "Best Taught MSc Dissertation Award"
+  organization = "Pramerica / LYIT"
+  certificate_url = "https://brandonthurgood.io/bestdissaward.pdf"
+  date_start = "2019-10-25"
+  date_end = ""
+  description = "The Pramerica prize for Best Taught MSc Dissertation Award in the department of computing 2018/19"
+  
 #[[item]]
 #  title = "Blockchain Fundamentals"
 #  organization = "edX"

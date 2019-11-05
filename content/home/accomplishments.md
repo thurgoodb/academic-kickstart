@@ -76,7 +76,7 @@ date_format = "Jan 2006"
   description = "Extensive list of Microsoft Certifications over a period of 14 years"
   
   [[item]]
-  title = "Best Taught MSc Dissertation Award"
+  title = "Best MSc Dissertation Award"
   organization = "Pramerica / LYIT"
   certificate_url = "https://brandonthurgood.io/bestdissaward.pdf"
   date_start = "2019-10-25"

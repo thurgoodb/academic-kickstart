@@ -81,7 +81,7 @@ date_format = "Jan 2006"
   certificate_url = "https://brandonthurgood.io/bestdissaward.pdf"
   date_start = "2019-10-25"
   date_end = ""
-  description = "Best Taught MSc Dissertation Award in the Department of Computing 2018/19"
+  description = "Best MSc Dissertation in the Department of Computing Award 2018/19"
   
 #[[item]]
 #  title = "Blockchain Fundamentals"

@@ -83,6 +83,14 @@ date_format = "Jan 2006"
   date_end = ""
   description = "Best MSc Dissertation in the Department of Computing Award 2018/19"
   
+    [[item]]
+  title = "Excellence in IT Award"
+  organization = "GM"
+  certificate_url = "https://brandonthurgood.io/excellenceitaward.pdf"
+  date_start = "2018-06-01"
+  date_end = ""
+  description = "Individual Excellence in IT Award Award - South Africa Divestiture"
+  
 #[[item]]
 #  title = "Blockchain Fundamentals"
 #  organization = "edX"

@@ -1,3 +1,3 @@
-# Academic Kickstart
+# Brandon Thurgood
 
 My personal web page

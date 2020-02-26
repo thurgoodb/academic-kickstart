@@ -44,6 +44,11 @@ interests = [
   year = ""
 
 [[education.courses]]
+  course = "Cisco Certified Specialist - Enterprise Advanced Infrastructure Implementation"
+  institution = "Cisco"
+  year = ""
+
+[[education.courses]]
   course = "Cisco Certified Networking Professional - Routing and Switching (CCNP R&S)"
   institution = "Cisco"
   year = ""

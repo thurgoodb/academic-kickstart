@@ -29,7 +29,7 @@ date_format = "Jan 2006"
 
 [[item]]
   title = "AWS Certified Solutions Architect - Associate"
-  organization = "Cisco"
+  organization = "AWS"
   certificate_url = "https://brandonthurgood.io/aws.pdf"
   date_start = "2020-04-20"
   date_end = "2023-04-20"

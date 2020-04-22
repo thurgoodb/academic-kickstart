@@ -20,6 +20,7 @@ email = "brandon.thurgood@outlook.com"
 
 # List (academic) interests or hobbies
 interests = [
+  "Cloud Platforms",
   "Cloud Native",
   "DevOps",
   "SRE",
@@ -37,6 +38,11 @@ interests = [
   course = "Master of Science in Cloud Technologies"
   institution = "Letterkenny Institute of Technology"
   year = "2019"
+  
+[[education.courses]]
+  course = "AWS Certified Solutions Architect - Associate"
+  institution = "AWS"
+  year = ""
   
 [[education.courses]]
   course = "VMware Certified Professional - Data Center Virtualization (VCP-DCV) 4,5,6 & 6.5"

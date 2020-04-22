@@ -28,6 +28,14 @@ date_format = "Jan 2006"
 #  description = "Abstract:                                                                 Cloud computing and artificial #intelligence (AI) technologies are becoming increasingly prevalent in the industry, necessitating the requirement for advanced #platforms to support their workloads through parallel and distributed architectures. Kubernetes provides an ideal platform for #hosting various workloads, including dynamic workloads based on AI applications that support ubiquitous computing devices #leveraging parallel and distributed architectures. The rationale is that Kubernetes can be used to support backend services #running on parallel and distributed architectures, hosting ubiquitous cloud computing workloads. These applications support #smart homes and concerts, providing an environment that automatically scales based on demand. While Kubernetes does offer #support for auto scaling of Pods to support these workloads, automated scaling of the cluster itself is not currently offered. #In this paper we introduce a Free and Open Source Software (FOSS) solution for autoscaling Kubernetes (K8s) worker nodes within #a cluster to support dynamic workloads. We go on to discuss scalability issues and security concerns both on the platform and #within the hosted AI applications."
 
 [[item]]
+  title = "AWS Certified Solutions Architect - Associate"
+  organization = "Cisco"
+  certificate_url = "https://brandonthurgood.io/aws.pdf"
+  date_start = "2020-04-20"
+  date_end = "2023-04-20"
+  description = "AWS Certified Solutions Architect - Associate certification is intended for individuals who perform a solutions architect role and have one or more years of hands-on experience designing available, cost-efficient, fault-tolerant, and scalable distributed systems on AWS."
+  
+  [[item]]
   title = "Cisco Certified Specialist - Enterprise Advanced Infrastructure Implementation"
   organization = "Cisco"
   certificate_url = "https://brandonthurgood.io/ciscoentinfr.pdf"

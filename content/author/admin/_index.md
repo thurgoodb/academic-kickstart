@@ -6,14 +6,14 @@ name = "Brandon Thurgood"
 superuser = true
 
 # Role/position
-role = "Cloud DevOps Manager"
+role = "SRE & Software Engineering Manager"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
 organizations = [ { name = "General Motors", url = "" } ]
 
 # Short bio (displayed in user profile at end of posts)
-bio = "An IT pro, manager and leader focusing on Cloud, DevOps, SRE, IaaS, PaaS, CaaS, and all things IT. I enjoy spending time with my family, reading and researching technologies and methodologies."
+bio = "An IT pro, leader & product manager focusing on Cloud, DevOps, IaaS, PaaS, CaaS, MaaS and all things IT. I enjoy spending time with my family, reading and researching technologies and methodologies."
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email = "brandon.thurgood@outlook.com"
@@ -27,10 +27,10 @@ interests = [
   "Kubernetes",
   "VMware",
   "Networking",
-  "IaaS",
-  "PaaS",
-  "CaaS",
-  
+  "IaaS (Infrastructure as a Service)",
+  "PaaS (Platform as a Service)",
+  "MaaS (Metal as a Service)",
+    
 ]
 
 # List qualifications (such as academic degrees)

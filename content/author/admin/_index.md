@@ -13,7 +13,7 @@ role = "SRE & Software Engineering Manager"
 organizations = [ { name = "General Motors", url = "" } ]
 
 # Short bio (displayed in user profile at end of posts)
-bio = "An IT pro, leader & product manager focusing on Cloud, DevOps, IaaS, PaaS, CaaS, MaaS and all things IT. I enjoy spending time with my family, reading and researching technologies and methodologies."
+bio = "An IT pro, leader & product manager focusing on Cloud, SRE, DevOps, MaaS, IaaS, PaaS and all things IT. I enjoy spending time with my family, reading and researching technologies and methodologies."
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email = "brandon.thurgood@outlook.com"
@@ -30,6 +30,7 @@ interests = [
   "IaaS (Infrastructure as a Service)",
   "PaaS (Platform as a Service)",
   "MaaS (Metal as a Service)",
+  "Bare Metal Cloud Automation",
     
 ]
 

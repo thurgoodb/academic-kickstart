@@ -6,11 +6,11 @@ name = "Brandon Thurgood"
 superuser = true
 
 # Role/position
-role = "SRE & Software Engineering Manager"
+role = "Senior Manager: Site Reliability Engineering"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-organizations = [ { name = "General Motors", url = "" } ]
+organizations = [ { name = "Dell Technologies", url = "" } ]
 
 # Short bio (displayed in user profile at end of posts)
 bio = "An IT pro, manager & leader focusing on Cloud, SRE, DevOps, MaaS, IaaS, PaaS and all things IT. I enjoy spending time with my family, reading and researching technologies and methodologies."

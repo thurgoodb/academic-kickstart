@@ -91,21 +91,29 @@ date_format = "Jan 2006"
   date_end = "2013-02-07"
   description = "Extensive list of Microsoft Certifications over a period of 14 years"
   
-  [[item]]
+[[item]]
   title = "Best MSc Dissertation Award"
-  organization = "Pramerica / LYIT"
+  organization = "Letterkenny Institute oif Technology"
   certificate_url = "https://brandonthurgood.io/bestdissaward.pdf"
   date_start = "2019-10-25"
   date_end = ""
   description = "Best MSc Dissertation in the Department of Computing Award 2018/19"
   
-    [[item]]
+[[item]]
   title = "Excellence in IT Award"
   organization = "GM"
   certificate_url = "https://brandonthurgood.io/excellenceitaward.pdf"
   date_start = "2018-06-01"
   date_end = ""
   description = "Individual Excellence in IT Award Award - South Africa Divestiture"
+
+[[item]]
+  title = "MSc in Computing in Private Cloud Technologies"
+  organization = "Letterkenny Institute oif Technology"
+  certificate_url = "https://brandonthurgood.io/MSc_Cert.pdf"
+  date_start = "2019-10-19"
+  date_end = ""
+  description = "Master of Science in Computing in Private Cloud Technologies"
   
 #[[item]]
 #  title = "Blockchain Fundamentals"

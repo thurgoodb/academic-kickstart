@@ -114,6 +114,14 @@ date_format = "Jan 2006"
   date_start = "2019-10-19"
   date_end = ""
   description = "Master of Science in Computing in Private Cloud Technologies"
+
+[[item]]
+  title = "GenAI Foundations - Dell Technologies Proven Professional"
+  organization = "Dell Technologies"
+  certificate_url = "https://www.credly.com/badges/ad475de4-7e53-4a67-b7c2-d165da21a7d7/linked_in?t=si0aps"
+  date_start = "2024-08-09"
+  date_end = ""
+  description = "Achievement of GenAI Foundations - Dell Technologies Proven Professional"
   
 #[[item]]
 #  title = "Blockchain Fundamentals"

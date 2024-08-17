@@ -13,7 +13,7 @@ role = "Senior Manager: Site Reliability Engineering"
 organizations = [ { name = "Dell Technologies", url = "" } ]
 
 # Short bio (displayed in user profile at end of posts)
-bio = "An IT pro, manager & leader focusing on Cloud, SRE, DevOps, MaaS, IaaS, PaaS and all things IT. 
+bio = "An IT pro, manager & leader focusing on Cloud, SRE, DevOps, MaaS, IaaS, PaaS and all things IT." 
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email = "brandon.thurgood@outlook.com"

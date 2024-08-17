@@ -104,4 +104,4 @@ interests = [
 
 +++
 
-An IT pro, manager & leader focusing on Cloud, SRE, DevOps, MaaS, IaaS, PaaS and all things IT. I enjoy spending time with my family, reading and researching technologies and methodologies.
+An IT pro, manager & leader focusing on Cloud, SRE, DevOps, MaaS, IaaS, PaaS and all things IT.

@@ -17,6 +17,11 @@ copyright = ""
 
 # Enable analytics by entering your Google Analytics tracking ID
 googleAnalytics = ""
+<script
+    src="https://app.rybbit.io/api/script.js"
+    data-site-id="389"
+    defer
+></script>
 
 # Enable comments by entering your Disqus shortname
 disqusShortname = ""

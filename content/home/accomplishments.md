@@ -89,7 +89,7 @@ date_format = "Jan 2006"
   certificate_url = "https://brandonthurgood.io/mstranscript.pdf"
   date_start = "1999-06-07"
   date_end = "2013-02-07"
-  description = "Extensive list of Microsoft Certifications over a period of 14 years"
+  description = "Extensive list of Microsoft Certifications over a period of 26 years"
   
 [[item]]
   title = "Best MSc Dissertation Award"
@@ -122,6 +122,14 @@ date_format = "Jan 2006"
   date_start = "2024-08-09"
   date_end = ""
   description = "Achievement of GenAI Foundations - Dell Technologies Proven Professional"
+
+  [[item]]
+  title = "Microsoft Certified: Azure Fundamentals"
+  organization = "Microsoft"
+  certificate_url = "https://learn.microsoft.com/api/credentials/share/en-gb/BrandonThurgood-5410/DAACCA0F1502E77F?sharingId=FFA22D6AB3CAF5E9"
+  date_start = "2025-06-22"
+  date_end = ""
+  description = "Achievement of Azure Fundamentals Certification"
   
 #[[item]]
 #  title = "Blockchain Fundamentals"

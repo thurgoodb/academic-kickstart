@@ -88,7 +88,7 @@ date_format = "Jan 2006"
   organization = "Microsoft"
   certificate_url = "https://learn.microsoft.com/en-gb/users/brandonthurgood-5410/transcript/d5e4kiwr9qwrgzr?wt.mc_id=certnurture_eml14_email_wwl&tab=credentials-tab"
   date_start = "1999-06-07"
-  date_end = "2013-02-07"
+  date_end = "2025-06-22"
   description = "Extensive list of Microsoft Certifications over a period of 26 years"
   
 [[item]]

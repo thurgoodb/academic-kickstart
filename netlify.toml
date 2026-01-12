@@ -1,5 +1,5 @@
 [build]
-  command = "hugo"
+  command = "brew install hugo"
   publish = "public"
 
 [build.environment]

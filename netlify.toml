@@ -1,6 +1,5 @@
 [build]
-  command = "git lfs install, hugo"
-  #command = "hugo"
+  command = "hugo"
   publish = "public"
 
 [build.environment]

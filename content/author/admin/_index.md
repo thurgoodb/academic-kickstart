@@ -105,4 +105,4 @@ interests = [
 
 +++
 
-An IT pro, manager & leader focusing on Cloud, SRE, DevOps, MaaS, IaaS, PaaS and all things IT.
+A dynamic IT leader passionate about building resilient, scalable, cloud driven solutions. I thrive at the intersection of Cloud, SRE, DevOps, IaC and IaaS, turning complexity into clarity and vision into execution. I lead with purpose, deliver with precision, and push teams and technology to operate at their absolute best.

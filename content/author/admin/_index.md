@@ -21,17 +21,13 @@ email = "brandon.thurgood@outlook.com"
 # List (academic) interests or hobbies
 interests = [
   "Cloud Platforms",
-  "Cloud Native",
-  "DevOps",
   "SRE",
-  "Kubernetes",
-  "Networking",
-  "VMware", 
+  "DevOps",
+  "IaC (Infrastructure as Code)",
   "IaaS (Infrastructure as a Service)",
   "STaaS (Storage as a Service)", 
   "PaaS (Platform as a Service)",
   "MaaS (Metal as a Service)",
-  "Bare Metal Cloud Automation",
     
 ]
 

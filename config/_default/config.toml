@@ -16,7 +16,7 @@ baseurl = "/"
 copyright = "© Brandon Thurgood"
 
 # Enable analytics by entering your Google Analytics tracking ID
-googleAnalytics = "G-GT2233N7B6"
+googleAnalytics = "G-GT2233N7B6, G-VBRR5FJWGH"
 
 # Enable comments by entering your Disqus shortname
 disqusShortname = ""

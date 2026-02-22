@@ -13,7 +13,7 @@ role = "Senior Manager: Site Reliability Engineering"
 organizations = [ { name = "Dell Technologies", url = "" } ]
 
 # Short bio (displayed in user profile at end of posts)
-bio = "A dynamic IT leader passionate about building and supporting resilient, scalable, cloud driven solutions. I thrive at the intersection of Cloud, SRE, DevOps, IaC and IaaS, turning complexity into clarity and vision into execution. I lead with purpose, deliver with precision, and push teams and technology to operate at their absolute best." 
+bio = "A dynamic IT leader passionate about building and supporting resilient, scalable, cloud driven solutions. I thrive at the intersections of Cloud, SRE, DevOps, IaC and IaaS, turning complexity into clarity and vision into execution. I lead with purpose, deliver with precision, and develop teams and technology to operate at their best." 
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email = "brandon.thurgood@outlook.com"
@@ -101,4 +101,4 @@ interests = [
 
 +++
 
-A dynamic IT leader passionate about building and supporting resilient, scalable, cloud driven solutions. I thrive at the intersection of Cloud, SRE, DevOps, IaC and IaaS, turning complexity into clarity and vision into execution. I lead with purpose, deliver with precision, and push teams and technology to operate at their absolute best.
+A dynamic IT leader passionate about building and supporting resilient, scalable, cloud driven solutions. I thrive at the intersections of Cloud, SRE, DevOps, IaC and IaaS, turning complexity into clarity and vision into execution. I lead with purpose, deliver with precision, and develop teams and technology to operate at their best.

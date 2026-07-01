@@ -118,10 +118,11 @@ item:
     description: 'GenAI Foundations Dell Technologies Proven Professional'
   - title: Microsoft Certified: Azure Fundamentals
     organization: Microsoft
+    organization_url: ''
     certificate_url: 'https://learn.microsoft.com/api/credentials/share/en-gb/BrandonThurgood-5410/DAACCA0F1502E77F?sharingId=FFA22D6AB3CAF5E9'
     date_start: '2025-06-22'
     date_end: ''
-    description: 'Achievement of Azure Fundamentals Certification'
+    description: 'Azure Fundamentals Certification'
   # - title: Blockchain Fundamentals
   #   organization: edX
   #   organization_url: ''

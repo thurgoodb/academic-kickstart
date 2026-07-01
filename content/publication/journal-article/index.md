@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "Placeholder for future journal article"
 authors:
 - admin

@@ -115,7 +115,7 @@ item:
     certificate_url: 'https://www.credly.com/badges/ad475de4-7e53-4a67-b7c2-d165da21a7d7/linked_in?t=si0aps'
     date_start: '2024-08-09'
     date_end: ''
-    description: 'Achievement of GenAI Foundations - Dell Technologies Proven Professional'
+    description: 'GenAI Foundations Dell Technologies Proven Professional'
   - title: Microsoft Certified: Azure Fundamentals
     organization: Microsoft
     certificate_url: 'https://learn.microsoft.com/api/credentials/share/en-gb/BrandonThurgood-5410/DAACCA0F1502E77F?sharingId=FFA22D6AB3CAF5E9'

@@ -1,2 +1,4 @@
 public/
 .idea/
+resources/
+.hugo_build.lock

@@ -1,3 +1,3 @@
 # Brandon Thurgood
 
-My personal web page
+My personal web page. 

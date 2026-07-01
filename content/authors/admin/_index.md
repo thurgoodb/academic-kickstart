@@ -14,7 +14,7 @@ organizations:
     url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: "An IT pro, manager & leader focusing on Cloud, SRE, DevOps, MaaS, IaaS, PaaS and all things IT."
+bio: "A dynamic IT leader passionate about building and supporting resilient, scalable, cloud driven solutions. I thrive at the intersections of Cloud, SRE, DevOps, IaC and IaaS, turning complexity into clarity and vision into execution. I lead with purpose, deliver with precision, and develop teams and technology to operate at their best."
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "brandon.thurgood@outlook.com"
@@ -77,4 +77,4 @@ social:
 highlight_name: true
 ---
 
-An IT pro, manager & leader focusing on Cloud, SRE, DevOps, MaaS, IaaS, PaaS and all things IT.
+A dynamic IT leader passionate about building and supporting resilient, scalable, cloud driven solutions. I thrive at the intersections of Cloud, SRE, DevOps, IaC and IaaS, turning complexity into clarity and vision into execution. I lead with purpose, deliver with precision, and develop teams and technology to operate at their best.

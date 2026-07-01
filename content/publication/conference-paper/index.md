@@ -13,7 +13,7 @@ publishDate: "2019-07-01T00:00:00Z"
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["1"]
+publication_types: ["Conference paper"]
 
 # Publication name and optional abbreviated publication name.
 publication: In *ICFNDS 2019*
@@ -30,9 +30,9 @@ featured: true
 profile: false
 share: false
 
-links:
-- name: Custom Link
-  url: https://doi.org/10.1145/3341325.3341995
+#links:
+#- name: Custom Link
+#  url: https://doi.org/10.1145/3341325.3341995
 url_pdf: https://brandonthurgood.io/icfnds2019.pdf
 
 # Featured image

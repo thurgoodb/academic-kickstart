@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "An example preprint / working paper"
 authors:
 - admin
@@ -62,8 +63,8 @@ projects:
 slides: example
 ---
 
-{{% alert note %}}
-Click the *Slides* button above to demo Academic's Markdown slides feature.
-{{% /alert %}}
+{{% callout note %}}
+Click the *Slides* button above to demo Wowchemy's Markdown slides feature.
+{{% /callout %}}
 
-Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
+Supplementary notes can be added here, including [code and math](https://wowchemy.com/docs/).

@@ -42,6 +42,14 @@ date_format = "Jan 2006"
   date_start = "2017-03-24"
   date_end = ""
   description = "Cisco Certified Specialist - Enterprise Advanced Infrastructure Implementation certification validates the ability and knowledge of implementation and troubleshooting for advanced routing technologies and services, including Layer 3, VPN services, Infrastructure security, Infrastructure services & Infrastructure automation"
+
+  [[item]]
+  title = "The Business of AI: Strategies for Leaders"
+  organization = "London Business School"
+  certificate_url = "https://brandonthurgood.io/lbs.pdf"
+  date_start = "2025-11-21"
+  date_end = ""
+  description = "Dell Technologies AI Business Academy in partnership with Digital Skillnet"
   
 [[item]]
   title = "Cisco Certified Network Professional (CCNP) R&S"

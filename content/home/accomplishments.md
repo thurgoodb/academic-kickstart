@@ -45,11 +45,11 @@ date_format = "Jan 2006"
 
   [[item]]
   title = "The Business of AI: Strategies for Leaders"
-  organization = "London Business School"
+  organization = "Dell Technologies AI Business Academy in partnership with Digital Skillnet"
   certificate_url = "https://brandonthurgood.io/lbs.pdf"
   date_start = "2025-11-21"
   date_end = ""
-  description = "Dell Technologies AI Business Academy in partnership with Digital Skillnet"
+  description = "London Business School"
   
 [[item]]
   title = "Cisco Certified Network Professional (CCNP) R&S"
